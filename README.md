@@ -64,3 +64,5 @@ Pusher and Laravel work really well together. There are a lot more improvements 
 And a whole lot more. If you've thought of any other great ways to use Pusher and Laravel, let us know in the comments.
 
 Run : <code>127.0.0.1:8000</code> using <code>php artisan serve</code>
+
+Need Help - Contact: devat.karetha@viitorcloud.in (9558335853)
