@@ -37,6 +37,8 @@ class ScoreUpdated implements ShouldBroadcast
     }
 
     /**
+     * leaderboard
+     *
      * @return array
      */
     public function broadcastWith()
